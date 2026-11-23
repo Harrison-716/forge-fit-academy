@@ -1,0 +1,50 @@
+[
+  {
+    "id": "S01",
+    "title": "WHO 身體活動指引",
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/publications/i/item/9789240015128",
+    "summary": "成年人每週150–300分鐘中等強度有氧活動，並於每週至少2天進行肌力訓練。",
+    "topic": "運動頻率與健康基礎"
+  },
+  {
+    "id": "S02",
+    "title": "CDC 成人活動建議",
+    "organization": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/physical-activity-basics/adults/index.html",
+    "summary": "以可持續的活動習慣為起點；成人每週至少2天進行主要肌群肌力活動。",
+    "topic": "初學者安排"
+  },
+  {
+    "id": "S03",
+    "title": "阻力訓練進階模型",
+    "organization": "American College of Sports Medicine",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/",
+    "summary": "阻力訓練可依訓練經驗逐步調整負荷、組數、頻率與動作選擇；漸進調整是重要原則。",
+    "topic": "漸進超負荷與訓練設計"
+  },
+  {
+    "id": "S04",
+    "title": "運動與蛋白質立場聲明",
+    "organization": "International Society of Sports Nutrition",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5598028/",
+    "summary": "對多數有訓練習慣的人，1.4–2.0 g/kg/day 蛋白質可作為常見的每日攝取參考範圍。",
+    "topic": "蛋白質與增肌"
+  },
+  {
+    "id": "S05",
+    "title": "健康體重管理",
+    "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "url": "https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity",
+    "summary": "體重管理需要長期可維持的飲食與活動改變；個人需求不同，不應套用單一熱量數字。",
+    "topic": "增肌減脂能量觀念"
+  },
+  {
+    "id": "S06",
+    "title": "睡眠建議",
+    "organization": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/sleep/about/index.html",
+    "summary": "18–60歲成人通常建議每晚至少7小時睡眠；恢復與日常功能有關。",
+    "topic": "恢復與睡眠"
+  }
+]

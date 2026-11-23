@@ -1,0 +1,18 @@
+{
+  "source_cards": 6,
+  "slides": 12,
+  "source_ids_used": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06"
+  ],
+  "slide_source_links": true,
+  "navigation_buttons": true,
+  "relative_files_exist": true,
+  "manual_browser_review": "尚未執行；部署後應確認桌機、手機、12 頁切換、來源連結",
+  "source_url_review": "來源 URL 已記錄，尚未逐一人工確認連結即時可用",
+  "note": "程式化檢查，不能取代瀏覽器與原始文獻全文查核"
+}
